@@ -83,6 +83,10 @@ img{
     float: none;
     margin: 0 auto;
   }
+  img{
+    width: 40%;
+    height: auto;
+  }
   body > div{
     padding-left: 2%;
     padding-right: 2%;
